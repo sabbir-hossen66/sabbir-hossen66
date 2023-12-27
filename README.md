@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sabbirhossen.eng66@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DGp2zbCnhkRpQKKRYlLpzuUoXwXvNHoK/view?usp=sharing](https://drive.google.com/file/d/1DGp2zbCnhkRpQKKRYlLpzuUoXwXvNHoK/view?usp=sharing)
+- 📄 Know about my experiences (--)
 
 - ⚡ Fun fact **I smile every situation.**
 
