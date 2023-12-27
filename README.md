@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-pika-76dc96.netlify.app/](https://my-portfolio-pika-76dc96.netlify.app/)
 
-- 📫 How to reach me **sabbirhossen.sh66@gmail.com**
+- 📫 How to reach me **sabbirhossen.eng66@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DGp2zbCnhkRpQKKRYlLpzuUoXwXvNHoK/view?usp=sharing](https://drive.google.com/file/d/1DGp2zbCnhkRpQKKRYlLpzuUoXwXvNHoK/view?usp=sharing)
 
