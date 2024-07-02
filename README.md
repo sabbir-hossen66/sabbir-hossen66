@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossen66&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossen66" /> </p>
 
-- 🔭 I’m currently working on **Manufacturing inventory**
+- 🔭 I’m currently working on **Team Project**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-pika-76dc96.netlify.app/](https://my-portfolio-pika-76dc96.netlify.app/)
 
 - 📫 How to reach me **sabbirhossen.eng66@gmail.com**
 
-- 📄 Know about my experiences (--)
+- 📄 Know about my experiences (1.5years)
 
-- ⚡ Fun fact **I smile every situation.**
+- ⚡ Fun fact **I like Team Leading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
