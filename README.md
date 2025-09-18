@@ -90,7 +90,6 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 </p>
 
 ---
-
 <p align="center">
   <em>"Let's build something amazing together!"</em>
 </p>
