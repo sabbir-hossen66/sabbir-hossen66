@@ -106,21 +106,6 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
----
-
-### 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/sabbirhossen66" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.hackerrank.com/sabbirhossen_eng1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://judge.phitron.io/topics/cm5z7wa3u0007p301xbzdqkuk" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-FFA116?stColor=blackyle=for-the-badge&logo=phitron&logo" alt="Phitron OJ"/>
-  </a>
-</p>
 
 ---
 
