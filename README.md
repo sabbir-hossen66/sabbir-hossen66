@@ -118,7 +118,7 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://judge.phitron.io/topics/cm5z7wa3u0007p301xbzdqkuk" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-FFA116?stColor=blackyle=for-the-badge&logo=LeetCode&logo" alt="Phitron OJ"/>
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?stColor=blackyle=for-the-badge&logo=phitron&logo" alt="Phitron OJ"/>
   </a>
 </p>
 
