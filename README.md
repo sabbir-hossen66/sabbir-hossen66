@@ -12,13 +12,13 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 ---
 
 ### 🚀 Skills & Expertise
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Next.js, TypeScript
-- **Backend:** Node.js, Express.js, Firebase
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Next.js
 - **Database:** MongoDB
-- **Programming Languages:** JavaScript, C
+- **Programming Languages:** JavaScript, C, TypeScript
+- **Backend:** Node.js, Express.js, Firebase
 - **Real-time Communication:** Agora.io
 - **Tools:** Figma
-- **Learning:** C,C++,DSA
+- **Learning:** C++,DSA
 
 ---
 
@@ -118,24 +118,12 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://leetcode.com/sabbirhossen66/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://judge.phitron.io/topics/cm5z7wa3u0007p301xbzdqkuk" alt="Phitron OJ"/>
   </a>
 </p>
 
 ---
 
-### 📝 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/sabbir-hossen66/realtime-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir-hossen66&repo=realtime-chat-app&theme=react" alt="Realtime Chat App"/>
-  </a>
-  <a href="https://github.com/sabbir-hossen66/mern-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir-hossen66&repo=mern-ecommerce&theme=react" alt="MERN E-commerce"/>
-  </a>
-</p>
-
----
 <p align="center">
   <em>"Let's build something amazing together!"</em>
 </p>
