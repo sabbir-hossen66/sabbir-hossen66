@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sabbir Hossen</h1>
-<h3 align="center">Aspiring Web Engineer | React Specialist</h3>
+<h3 align="center">Frontend Developer | React Specialist | Competitive Programmer</h3>
 
 ---
 
@@ -12,17 +12,29 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 ---
 
 ### 🚀 Skills & Expertise
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Next.js, TypeScript
 - **Backend:** Node.js, Express.js, Firebase
 - **Database:** MongoDB
+- **Programming Languages:** JavaScript, C
+- **Real-time Communication:** Agora.io
 - **Tools:** Figma
-- **Learning:** Next.js, TypeScript
+- **Learning:** C,C++,DSA
+
+---
+
+### 🏆 Key Achievements
+- ✅ Built real-time chat applications with advanced features
+- 🏅 Active competitive programmer with problem-solving mindset
+- 🌟 React specialist with component architecture expertise
+- 📱 Frontend-focused MERN stack developer
 
 ---
 
 ### 👨‍💻 What I'm Up To
 - 🔭 Currently collaborating on a team project  
 - 🌱 Actively exploring **Next.js** and **TypeScript**  
+- 🎯 Solving competitive programming challenges
+- 💬 Building real-time communication solutions
 - 📫 Reach me at: **sabbirhossen.eng66@gmail.com**  
 - ⚡ Fun fact: I genuinely enjoy coding and solving real-world problems!
 
@@ -69,7 +81,10 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabbir-hossen66&show_icons=true&count_private=true&theme=react" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossen66&layout=compact&theme=react" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=sabbir-hossen66&theme=react" alt="GitHub streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sabbir-hossen66&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats"/>
 </p>
 
 ---
@@ -87,6 +102,37 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.agora.io/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/agoraio/agoraio-icon.svg" alt="agora" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/sabbirhossen66" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.hackerrank.com/sabbirhossen_eng1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/sabbirhossen66/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+### 📝 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sabbir-hossen66/realtime-chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir-hossen66&repo=realtime-chat-app&theme=react" alt="Realtime Chat App"/>
+  </a>
+  <a href="https://github.com/sabbir-hossen66/mern-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir-hossen66&repo=mern-ecommerce&theme=react" alt="MERN E-commerce"/>
+  </a>
 </p>
 
 ---
