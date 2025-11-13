@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sabbir Hossen</h1>
-<h3 align="center">Frontend Developer | React Specialist | Competitive Programmer</h3>
+<h3 align="center">Frontend Engineer | React Specialist | Competitive Programmer</h3>
 
 ---
 
