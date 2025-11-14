@@ -12,7 +12,7 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 ---
 
 ### 🚀 Skills & Expertise
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Next.js
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Next.js,Agora
 - **Database:** MongoDB
 - **Programming Languages:** JavaScript, C, TypeScript
 - **Backend:** Node.js, Express.js, Firebase
