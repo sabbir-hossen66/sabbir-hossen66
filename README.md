@@ -17,7 +17,7 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 - **Programming Languages:** JavaScript, C, TypeScript
 - **Backend:** Node.js, Express.js, Firebase
 - **Real-time Communication:** Agora.io
-- **Tools:** Figma
+- **Tools:** Figma,Slack
 - **Learning:** C++,DSA
 
 ---
