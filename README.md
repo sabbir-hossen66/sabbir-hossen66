@@ -7,7 +7,7 @@
 
 ---
 
-I'm a passionate web developer focused on building dynamic, user-centric web applications with **React**. I thrive on crafting responsive, high-performance interfaces and writing clean, scalable, and maintainable code. I am committed to staying ahead of industry trends and continually leveling up my skills to deliver modern, impactful solutions that exceed expectations.
+I'm a passionate front end focused  web developer focused on building dynamic, user-centric web applications with **React**. I thrive on crafting responsive, high-performance interfaces and writing clean, scalable, and maintainable code. I am committed to staying ahead of industry trends and continually leveling up my skills to deliver modern, impactful solutions that exceed expectations.
 
 ---
 
